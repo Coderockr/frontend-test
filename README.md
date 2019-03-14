@@ -27,7 +27,8 @@ Convert the following designs into live code.
 5. When scrolling, the top header should scroll up to the top of the page and then stick to the top.
 6. We pay attention to both CSS and JS bundle sizes. Import just what you require and _not the whole package_.
 7. We appreciate _a readable & clean code_.
-8. Avoid using huge commits hiding your progress. Feel free to work on a branch and use rebase to adjust your commits before submitting the final version.
+8. Please publish your source code into Github with a README.md file detailing the instructions on how to get the application up and running.
+9. Avoid using huge commits hiding your progress. Feel free to work on a branch and use rebase to adjust your commits before submitting the final version.
 
 ## Design
 
@@ -35,7 +36,7 @@ Design is available in Figma at [https://www.figma.com/file/ImqUersZbn3WGyBdiEjl
 
 Prototype: [https://www.figma.com/proto/ImqUersZbn3WGyBdiEjlwKyQ/Coderockr-Front-end-Test](https://www.figma.com/proto/ImqUersZbn3WGyBdiEjlwKyQ/Coderockr-Front-end-Test)
 
-## Supported browsers
+## Supported Browsers
 
 Ensure that the elements work and display correctly in the following browsers:
 
@@ -43,7 +44,7 @@ Ensure that the elements work and display correctly in the following browsers:
 - Google Chrome (latest version)
 - Microsoft Edge (latest version)
 
-## Coding standards
+## Coding Standards
 
 When working on the project use consistent coding style.
 
@@ -61,7 +62,7 @@ Use the following checklist to ensure high quality of the project.
 - Can the project be built using `npm run build` or `yarn build` without any errors and warnings?
 - Is the page working without any JS errors?
 
-### Browser check
+### Browser Check
 
 - Does page display and work correctly in supported browsers?
 
@@ -70,10 +71,9 @@ Use the following checklist to ensure high quality of the project.
 - Is coding style (for HTML/CSS/JS) consistent?
 
 
-
 ## Submission
 
 1. A link to the Github repository.
 2. Briefly describe how you decided on the tools that you used.
 
-## Have fun coding 🤘
+### Have Fun Coding 🤘
