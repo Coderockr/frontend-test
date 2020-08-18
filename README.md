@@ -1,5 +1,5 @@
 # Front End Test Project
-You should see this challenge as an opportunity to create an app following modern development best practices (givenyour platform of choice), but also feel free to use your own app architecture preferences (coding standards, code organization, third-party libraries, etc). It’s perfectly fine to use vanilla code or any framework or librarie.
+You should see this challenge as an opportunity to create an app following modern development best practices (given your platform of choice), but also feel free to use your own app architecture preferences (coding standards, code organization, third-party libraries, etc). It’s perfectly fine to use vanilla code or any framework or libraries.
 
 ## Scope
 **1. Infinite scroll page**
@@ -9,7 +9,7 @@ You should see this challenge as an opportunity to create an app following moder
 **3. Contact page**
 
 ## Requirements
-1. Create project using any technology of your preference. It’s perfectly OK to use vanilla JS or any front end frameworks or libraries.
+1. Create the project using any technology of your preference. It’s perfectly OK to use vanilla JS or any front end frameworks or libraries.
 2. Make it responsive using your best judgement.
 3. Create custom infinite scroll effect - use custom JavaScript (preferably the modern JS standards and APIs). Don't hesitate to use helpful NPM packages but **keep the JS bundle size low**.
 4. Use this API to display posts: https://stormy-shelf-93141.herokuapp.com/ – `_page` and `_limit` query parameters are available.
