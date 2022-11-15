@@ -12,8 +12,7 @@ You should see this challenge as an opportunity to create an app following moder
 1. Create the project using any technology of your preference. It’s perfectly OK to use vanilla JS or any front end frameworks or libraries.
 2. Make it responsive using your best judgement.
 3. Create custom infinite scroll effect - use custom JavaScript (preferably the modern JS standards and APIs). Don't hesitate to use helpful NPM packages but **keep the JS bundle size low**.
-4. Use this API to display posts: https://stormy-shelf-93141.herokuapp.com/ – `_page` and `_limit` query parameters are available.
-   1. To get a detailed post use this endpoint https://stormy-shelf-93141.herokuapp.com/articles/`post_id`
+4. Use this API to display posts: https://sample-posts.coderockr.com/api/posts, the documentation is available at https://sample-posts.coderockr.com/ui.
 5. When scrolling, the top header should scroll up to the top of the page and then stick to the top.
 6. We pay attention to both CSS and JS bundle sizes. Import just what you require and _not the whole package_.
 
