@@ -1,4 +1,5 @@
-# Front End Test Project
+# Front End Test Project  <img src="https://raw.githubusercontent.com/Coderockr/backend-test/refs/heads/main/coderockr.banner.svg" align="right" height="50px" />
+
 You should see this challenge as an opportunity to create an app following modern development best practices (given your platform of choice), but also feel free to use your own app architecture preferences (coding standards, code organization, third-party libraries, etc). It’s perfectly fine to use vanilla code or any framework or libraries.
 
 ## Scope
