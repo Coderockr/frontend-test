@@ -16,6 +16,7 @@ You should see this challenge as an opportunity to create an app following moder
 4. Use this API to display posts: https://sample-posts.coderockr.com/api/posts, the documentation is available at https://sample-posts.coderockr.com/ui.
 5. When scrolling, the top header should scroll up to the top of the page and then stick to the top.
 6. We pay attention to both CSS and JS bundle sizes. Import just what you require and _not the whole package_.
+7. Use [Conventional Commits](https://www.conventionalcommits.org/) for commit messages throughout the development process.
 
 ## Design
 
